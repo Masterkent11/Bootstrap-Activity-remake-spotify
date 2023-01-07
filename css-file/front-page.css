@@ -1,0 +1,63 @@
+body{
+    font-family: 'Open Sans', sans-serif !important;
+    background-color: rgb(37, 22, 22);
+    color: rgb(30, 215, 96);
+    
+}
+
+.gradient {
+    /* background: linear-gradient(#ed6670,#f7c04e); */
+    background-image:  url(https://s.yimg.com/ny/api/res/1.2/ehZix4_KQft13jFR94K72A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-03/4b548f80-a620-11ec-96ff-d4609363ca58);
+    /* background-image:  url(https://cdn.dribbble.com/users/2936992/screenshots/11128383/media/eba909e6b917c404655915c809e6fa63.png?compress=1&resize=700x525&vertical=top); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+ 
+
+}
+
+ p{
+    opacity: 0.7;
+    color: #fcfafa;
+}
+
+
+
+.py-6{
+        padding: 150px 0px;
+}
+.pt-6{
+    padding-top: 200px;
+}
+
+.green-color{
+    color: #1db954 !important;
+}
+
+.bg-black{
+    background-color: #000000;
+}
+
+
+.bg-soft-dark{
+    background-color: #00000099;
+}
+
+.btn-success{
+    background-color: #1db954 !important;
+    border-radius: 50px;
+}
+
+.btn-outline-secondary{
+    border-radius: 50px;
+}
+
+.shadow{
+    box-shadow: 0px 5px 10px #999;
+}
+
+@media (max-width:992px){
+    .display-3{
+        font-size: 35 !important;
+    }
+}
